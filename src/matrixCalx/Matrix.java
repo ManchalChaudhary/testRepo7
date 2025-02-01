@@ -4,7 +4,7 @@ public class Matrix {
 	
 	public static void main(String[] args) {
 		
-		int a = 4;
+		int a = 6;
 		//break point, debug mode: step into, step over, step return
 		for(int i= 1; i<=a; i++) {
 			
